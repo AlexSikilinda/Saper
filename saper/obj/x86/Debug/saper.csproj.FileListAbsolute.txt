@@ -1,0 +1,9 @@
+D:\games\mygames\saper\saper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\games\mygames\saper\saper\obj\x86\Debug\saper.Properties.Resources.resources
+D:\games\mygames\saper\saper\obj\x86\Debug\saper.Form1.resources
+D:\games\mygames\saper\saper\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\games\mygames\saper\saper\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\games\mygames\saper\saper\bin\Debug\saper.exe
+D:\games\mygames\saper\saper\bin\Debug\saper.pdb
+D:\games\mygames\saper\saper\obj\x86\Debug\saper.exe
+D:\games\mygames\saper\saper\obj\x86\Debug\saper.pdb
